@@ -1,15 +1,12 @@
-# Welcome to iQuHACK 2021!
-Check out some info in the [event's repository](https://github.com/iQuHACK/2021) to get started.
+# SUDOKU SOLVER : USING DISCRETE QUANTUM MODEL
+## iQuHACK 2021! TEAM SYCAMORE 
+### Rishabh Singhal, Niranjan P N, Rohit K S S Vuppala 
 
-Having a README in your team's repository facilitates judging. A good README contains:
-* a clear title for your project,
-* a short abstract,
-* the motivation/goals for your project,
-* a description of the work you did, and
-* proposals for future work.
+## Introduction
+<p> NP-completeness is a concept that applies to decision problems with variable input size, so that you can analyze the running time of an algorithm as that input size grows asymptotically.
 
-You can find a potential README template in [one of last year's projects](https://github.com/iQuHACK/QuhacMan).
+<p> The general problem of solving Sudoku puzzles on $n^{2} × n^{2}$ grids of $n×n$ blocks is known to be NP-complete[1].
 
-Feel free to contact the staff with questions over our [event's slack](https://iquhack.slack.com), or via iquhack@mit.edu.
-
-Good luck!
+<p> We have modelled this probelm using Graph coloring problem.
+## References
+"NP complete – Sudoku" (PDF). Imai.is.su-tokyo.ac.jp. Retrieved 20 October 2013.
