@@ -15,9 +15,9 @@
         4. Each cell can have only one value
 
 * We model the sudoku probelm as mathematical graph structure. Now we will color this graph, using n colors. The new constraints then are - 
-        a. Node sharing an edge cannot share same color
-        b. Each node will have exactly one color
-        c. Some nodes have pre-defined color
+        1. Node sharing an edge cannot share same color
+        2. Each node will have exactly one color
+        3. Some nodes have pre-defined color
 
 * Constraint a takes care of constraint 1,2 and 3.
 * Constraint b takes care of constraint 4.
