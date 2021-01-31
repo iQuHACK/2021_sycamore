@@ -5,7 +5,7 @@
 ## Introduction
 <p> Solving $n x n$ Sudoku is shown to NP Complete problem. NP-completeness is a concept that applies to decision problems with variable input size, so that it can be analyzed the running time of an algorithm as that input size grows asymptotically. We are using DQM model to solve these sudoku problem.
 
-<p> The general problem of solving Sudoku puzzles on $n^{2} × n^{2}$ grids of $n×n$ blocks is known to be NP-complete.
+<p> The general problem of solving Sudoku puzzles on n<sup>2</sup> × n<sup>2</sup> grids of n×n blocks is known to be NP-complete.
  
 ## Description
 * Constraints of Sudoku - 
