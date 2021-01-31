@@ -8,23 +8,23 @@
 <p> The general problem of solving Sudoku puzzles on $n^{2} × n^{2}$ grids of $n×n$ blocks is known to be NP-complete.
  
 ## Description
-<p> Constraints of Sudoku - 
+* Constraints of Sudoku - 
         1. Each row must have a unique value
         2. Ecah column must have a unique value
         3. Each sub-square must have a unique value
         4. Each cell can have only one value
 
-<p>We model the sudoku probelm as mathematical graph structure. Now we will color this graph, using n colors. The new constraints then are - 
+* We model the sudoku probelm as mathematical graph structure. Now we will color this graph, using n colors. The new constraints then are - 
         a. Node sharing an edge cannot share same color
         b. Each node will have exactly one color
         c. Some nodes have pre-defined color
 
-<p>Constraint a takes care of constraint 1,2 and 3.
-<p>Constraint b takes care of constraint 4.
-<p>DQM solver automatically implement one-hot constraint. Thus resultant constraints now are a and c.
+* Constraint a takes care of constraint 1,2 and 3.
+* Constraint b takes care of constraint 4.
+* DQM solver automatically implement one-hot constraint. Thus resultant constraints now are a and c.
 
-<p> The algorithm presented here can be applied on any general graph coloring problem.
+* The algorithm presented here can be applied on any general graph coloring problem.
 
 ## References
-<p> "NP complete – Sudoku" (PDF). Imai.is.su-tokyo.ac.jp. Retrieved 20 October 2013.
-<p> https://arxiv.org/pdf/1302.5843.pdf
+* "NP complete – Sudoku" (PDF). Imai.is.su-tokyo.ac.jp. Retrieved 20 October 2013.
+* https://arxiv.org/pdf/1302.5843.pdf
