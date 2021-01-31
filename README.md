@@ -1,15 +1,44 @@
-# Welcome to iQuHACK 2021!
-Check out some info in the [event's repository](https://github.com/iQuHACK/2021) to get started.
+# QuSudoku: A Sudoku solver as graph coloring problem using Dwave's DQM  
+Rishabh Singhal, Rohit K S S Vuppala, Niranjan P N 
 
-Having a README in your team's repository facilitates judging. A good README contains:
-* a clear title for your project,
-* a short abstract,
-* the motivation/goals for your project,
-* a description of the work you did, and
-* proposals for future work.
+## Introduction
 
-You can find a potential README template in [one of last year's projects](https://github.com/iQuHACK/QuhacMan).
+1. The initial status is entangled
+2. The initial state is superposed
+3. Player strategy is quantum
+strategies.
 
-Feel free to contact the staff with questions over our [event's slack](https://iquhack.slack.com), or via iquhack@mit.edu.
+## Basic principles
 
-Good luck!
+
+
+## Elements and rules
+
+
+
+
+
+*   Elements of the problem
+*   ELements of the problem
+
+Basic Rules:
+
+* Rule 1
+* Rule 2
+
+Advanced Strategies:
+
+* Strategies
+* Strategies
+
+## Demonstrations:
+
+
+## ToDo:
+### Things we would wanna fix/implement but didn't have enough time to do
+
+
+
+
+## Highlights:
+
