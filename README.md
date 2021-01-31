@@ -10,7 +10,7 @@
 ## Description
 * Constraints of Sudoku - 
         1. Each row must have a unique value
-        2. Ecah column must have a unique value
+        2. Each column must have a unique value
         3. Each sub-square must have a unique value
         4. Each cell can have only one value
 
