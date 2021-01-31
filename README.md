@@ -25,10 +25,10 @@
 
 * The algorithm presented here can be applied on any general graph coloring problem.
 
-##Result :
+## Result :
 This code can efficiently calculate the solution for n x n suduko puzzle by using DQM. 
 
-##Future work:
+## Future work:
 We are planning to give input as an image using OpenCV and extending thhis code further to all problems that 
 ## References
 * "NP complete – Sudoku" (PDF). Imai.is.su-tokyo.ac.jp. Retrieved 20 October 2013.
