@@ -30,7 +30,7 @@ This code can efficiently calculate the solution for n x n suduko puzzle by usin
 
 ## Future work:
 We are planning to give input as an image using OpenCV and extending this code further for all problems that be modelled similarly as graph coloring problems.
- * Mobile radio frequency assignment.
+ * Example: Mobile radio frequency assignment for WLAN devices.
 ## References
 * "NP complete – Sudoku" (PDF). Imai.is.su-tokyo.ac.jp. Retrieved 20 October 2013.
 * https://arxiv.org/pdf/1302.5843.pdf
