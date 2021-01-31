@@ -1,43 +1,15 @@
-# QuSudoku: A Sudoku solver as graph coloring problem using Dwave's DQM  
-Rishabh Singhal, Rohit K S S Vuppala, Niranjan P N 
+# Welcome to iQuHACK 2021!
+Check out some info in the [event's repository](https://github.com/iQuHACK/2021) to get started.
 
-## Introduction
+Having a README in your team's repository facilitates judging. A good README contains:
+* a clear title for your project,
+* a short abstract,
+* the motivation/goals for your project,
+* a description of the work you did, and
+* proposals for future work.
 
-1. The problem is designed as an N x N grid with 1 to N numbers which are filled in with specific rules.
-2. The number of columns or rows (N) needs to be a perfect square number.
-3. This problem is usually formulated as a graph colouring problem with N colors and N x N elements.
+You can find a potential README template in [one of last year's projects](https://github.com/iQuHACK/QuhacMan).
 
-## Basic principles
+Feel free to contact the staff with questions over our [event's slack](https://iquhack.slack.com), or via iquhack@mit.edu.
 
-
-
-## Elements and rules
-
-
-
-
-
-*   Elements of the problem
-*   ELements of the problem
-
-Basic Rules:
-
-* Rule 1
-* Rule 2
-
-Advanced Strategies:
-
-* Strategies
-* Strategies
-
-## Demonstrations:
-
-
-## ToDo:
-### Things we would wanna fix/implement but didn't have enough time to do
-
-
-
-
-## Highlights:
-
+Good luck!
